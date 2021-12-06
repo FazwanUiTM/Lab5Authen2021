@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485017929104",
+    "project_id": "lab5authen2021",
+    "storage_bucket": "lab5authen2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485017929104:android:e3a6704d10bebbce719f15",
+        "android_client_info": {
+          "package_name": "com.example.lab5authen2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485017929104-en7c3plbtuvs4fgt35hpct4sqhth2ver.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEXXwOZHd-5Y_6kYnwNONe7sFyovX5Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485017929104-en7c3plbtuvs4fgt35hpct4sqhth2ver.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
